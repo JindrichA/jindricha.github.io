@@ -1,0 +1,10 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["C48NS995KH.com.jindrich.cognitivniproteza"],
+        "components": [{"/" : "/connect/*"}]
+      }
+    ]
+  }
+}
